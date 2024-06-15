@@ -23,8 +23,8 @@ Develop a script or application that:
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/prince24j/interview-response-analysis.git
-    cd interview-response-analysis
+    git clone https://github.com/prince24j/NLP.git
+    cd NLP.git
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
@@ -46,7 +46,7 @@ Develop a script or application that:
 
 2. Run the script:
     ```sh
-    python analyze_responses.py
+    python Text_Analysis.ipynb
     ```
 
 3. The script will output the sentiment, key phrases, and overall quality for each response.
